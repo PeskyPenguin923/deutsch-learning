@@ -71,3 +71,19 @@ body {
     display: flex;
     justify-content: space-evenly;
 }
+
+.alpha-list .first {
+    width: 400px;
+}
+
+.alpha-list .second {
+    width: 400px;
+}
+
+.alpha-list .third {
+    width: 400px;
+}
+
+.alpha-list .forth {
+    width: 400px;
+}
