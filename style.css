@@ -4,4 +4,25 @@ body {
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     box-sizing: border-box;
+    font-size: 16px;
+}
+
+.header {
+    display: flex;
+    font-weight: bold;
+    font-size: 24px;
+    justify-content: center;
+}
+
+.menu-container {
+    display: flex;
+    font-weight: bold;
+    font-size: 20px;
+    justify-content: space-around;
+    border-style: solid;
+    background-color: #262525;
+}
+
+.menu-container a {
+    color: white;
 }
