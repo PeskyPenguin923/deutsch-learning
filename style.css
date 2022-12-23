@@ -28,7 +28,7 @@ body {
 }
 
 .home-section {
-    height: 100px;
+    height: auto;
     margin-top: 15px;
     background-color: #262525;
     border-style: solid;
