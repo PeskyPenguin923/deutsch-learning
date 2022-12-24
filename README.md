@@ -11,3 +11,8 @@ Organize resources so it's easy to find and work through.
 Eventually break the resources down to a day by day lesson style.
 
 Once A1 is complete, move on to other levels of study.
+
+Things to do in the far future:
+Create a sign in page so people can track their progress.
+Once sign in is possible make it so people can check off days of study and update the buttons to reflect completed content.
+
