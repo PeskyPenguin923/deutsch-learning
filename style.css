@@ -128,7 +128,8 @@ body {
 .weekly-set {
     height: auto;
     border-style: solid;
-    margin-top: 5px;
+    margin-top: 80px;
+    border-color: #4c4c4c;
 }
 
 .week-title {
