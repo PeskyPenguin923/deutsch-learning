@@ -157,3 +157,80 @@ body {
 .day-button a {
     color: white;
 }
+
+/* Daily Practice Style */
+
+.daily-vocab-container {
+    margin-top: 15px;
+}
+
+.daily-vocab-container .section-header {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.vocab-container .top {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.vocab-container .top div {
+    height: auto;
+    width: 150px;
+}
+
+.vocab-container .bottom {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.vocab-container .bottom div {
+    height: auto;
+    width: 150px;
+}
+
+.daily-grammar-container {
+    margin-top: 15px;
+}
+
+.daily-grammar-container .section-header {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.grammar-container .top {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.grammar-container .top div {
+    height: auto;
+    width: 150px;
+}
+
+.grammar-container .bottom {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.grammar-container .bottom div {
+    height: auto;
+    width: 150px;
+}
+
+.daily-exercise-container {
+    margin-top: 15px;
+}
+
+.daily-exercise-container .section-header {
+    font-size: 28px;
+    font-weight: bold;
+}
