@@ -193,16 +193,16 @@ body {
     width: 150px;
 }
 
-.daily-grammar-container {
+.daily-translate-container {
     margin-top: 15px;
 }
 
-.daily-grammar-container .section-header {
+.daily-translate-container .section-header {
     font-size: 28px;
     font-weight: bold;
 }
 
-.grammar-container .top {
+.translate-container {
     display: flex;
     justify-content: space-evenly;
     margin-top: 5px;
