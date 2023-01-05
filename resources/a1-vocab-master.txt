@@ -1,0 +1,689 @@
+
+ ab 
+ aber Used
+ abfahren 
+ die Abfahrt 
+ abgeben 
+ abholen 
+ der Absender 
+ Achtung 
+ die Adresse, -en 
+ all- 
+ allein 
+ also 
+ alt 
+ das Alter 
+ an 
+ anbieten 
+ das Angebot -e 
+ ander- 
+ anfangen 
+ der Anfang 
+ anklicken 
+ ankommen 
+ die ankunft 
+ ankreuzen 
+ anmachen 
+ (sich) anmelden 
+ die Anmeldung 
+ die Anrede 
+ anrufen 
+ der anruf, -e 
+ der Anruf- 
+ beantworter 
+ die Ansage, -n 
+ der Anschluss 
+ an sein 
+ antworten 
+ die Antwort -en 
+ die Anzeige, -n 
+ (sich) anziehen 
+ das Apartment, s 
+ der Apfel, Ä 
+ der Appetit 
+ arbeiten 
+ die Arbeit, -en 
+ arbeitslos 
+ der Arbeitplatz, -ä, e 
+ der Arm, -e 
+ der Arzt, -Ä, e 
+ auch 
+ auf 
+ die Aufgabe, -n 
+ aufhören 
+ auf sein 
+ aufstehen 
+ der Aufzug, -ü, e 
+ das auge, -n 
+ aus 
+ ausfüllen 
+ der Ausgang 
+ die Auskunft, -ü, e 
+ 
+ das Ausland 
+ der Ausländer 
+ ausländisch 
+ Ausmachen 
+ die aussage, -n 
+ aussehen 
+ aus sein 
+ aussteigen 
+ der Ausweis 
+ (sich) Ausziehen 
+ das Auto, -s 
+ die Autobahn, -en 
+ der Automat 
+ automatisch 
+ das Baby, -s 
+ die Bäckerei 
+ das Bad 
+ baden 
+ die Bahn 
+ der Bahnhof 
+ der Bahnsteig 
+ bald 
+ der Balkon 
+ der Banane, -n 
+ die Bank 
+ bar 
+ der Bauch 
+ der Baum, ä, e 
+ der Beamte, -n 
+ bedeuten 
+ beginnen 
+ bei 
+ beide 
+ das bein, -e 
+ das Beispiel, -e 
+ zum Beispiel/z. B 
+ bekannt 
+ der/die bekannte, -n 
+ bekommen 
+ benutzen 
+ der Beruf, -e 
+ besetzt 
+ besichtigen 
+ besser 
+ best- 
+ bestellen 
+ besuchen 
+ das Bett 
+ bezahlen 
+ das Bier 
+ das Bild, -er 
+ billig 
+ die Birne, -n 
+ bis 
+ bisschen 
+ bitte                       Used
+ die bitte, -n 
+ bitten 
+ bitter 
+ bleiben 
+ der bleistift, -e 
+ der Blick 
+ die Blume, -n 
+ der bogen 
+ böse 
+ brauchen 
+ breit 
+ der Brief, -e 
+ die Briefmarke, -n 
+ bringin 
+ das Brot, -e 
+ das Brötchen 
+ der Bruder, -ü              Used
+ das Buch, -ü, er 
+ der Buchstabe, -n 
+ buchstabieren 
+ der Bus, -se 
+ die Butter 
+ das Café, -s 
+ die CD, -s 
+ der Chef 
+ circa/ca 
+ der Computer 
+ da 
+ die Dame, -n 
+ daneben 
+ danken 
+ der Dank 
+ danke 
+ dann 
+ Das Datum 
+ dauern 
+ dein- 
+ denn 
+ der,die,das 
+ dich 
+ dies- 
+ dir 
+ die Disco 
+ der Doktor 
+ das Doppelzimmer 
+ das Dorf, -ö, er 
+ dort, -her, -hin 
+ draußen 
+ drucken 
+ der Drucker 
+ drücken 
+ durch 
+ dis Durchsage, -n 
+ dürfen 
+ der Durst 
+ (sich)Duschen 
+ die Dusche 
+ die Ecke, -n 
+ die Ehefrau, -en 
+ der Ehemann, ä, er 
+ das Ei, -er 
+ eilig 
+ ein- 
+ einfach 
+ der Eingang 
+ einkaufen 
+ einladen 
+ die Einladung 
+ einmal 
+ einsteigen 
+ der Eintritt 
+ das Einzelzimmer 
+ die Eltern (pl.) 
+ die E-mail, -s 
+ der Empfänger 
+ empfehlen 
+ enden 
+ das Ende 
+ entschuldigen 
+ die Entschuldigung                 Used
+ er 
+ das Ergebnis, -se 
+ erklären 
+ erlauben 
+ der Erwaschsene, -n 
+ erzählen 
+ es 
+ essen 
+ das Essen 
+ euer 
+ fahren 
+ der fahrer 
+ die Fahrkarte, -n 
+ das Fahrrad, -ä, er 
+ falsch 
+ die Familie, -n 
+ der Familienname 
+ der Familienstand 
+ die Farbe, -n 
+ das Fax -e 
+ Feier- 
+ feiern 
+ fehlen 
+ der Fehler, - 
+ fernsehen 
+ fertig 
+ das Feuer 
+ das Fieber 
+ der Film, -e 
+ finden 
+ die Firma 
+ der fisch, -e 
+ die Flasche, -n 
+ das Fleisch 
+ fliegen 
+ abfliegen 
+ der Abflug 
+ der Flughafen 
+ das Flugzeug 
+ das Formular, -e 
+ das Foto, -s 
+ fragen 
+ die Frage, -n 
+ die frau 
+ frei 
+ die Freizeit 
+ fremd 
+ (sich) freuen 
+ der Freund, -e 
+ früher 
+ frühstücken 
+ das Früstück 
+ die führung 
+ für 
+ der Fuß, -ü, e 
+ der Fußball 
+ der Garten 
+ der Gast, -ä, e 
+ geben 
+ geboren 
+ das Geburtsjahr 
+ der Geburtsort 
+ der Geburtstag 
+ gefallen 
+ gegen 
+ gehören 
+ das Geld 
+ das Gemüse 
+ das Gepäck 
+ gerade 
+ geradeaus 
+ gern(e) 
+ das Geschäft, -e 
+ das Geschenk, -e 
+ die Geschwister (pl.) 
+ das Gespräch -e 
+ gestern 
+ gestorben 
+ das Getränk 
+ das Gewicht 
+ gewinnen 
+ das Glas, -ä, er 
+ glauben 
+ gleich 
+ das Gleis, -e 
+ das Glück 
+ glücklich 
+ der Glückwunsch 
+ Grad (Celsius) 
+ gratulieren 
+ grillen 
+ groß 
+ die Große 
+ die Großeltern 
+ die Großmutter 
+ die Großvater 
+ die Gruppe,-n 
+ der Gruß 
+ gütig 
+ günstig 
+ gut 
+ das Haar, -e 
+ haben 
+ das Hänchen, - 
+ die Halbpension 
+ die Halle 
+ hallo                      Used
+ halten 
+ die Haltestelle 
+ die Hand, -ä, e 
+ das Handy, -s 
+ das Haus, -ä, er 
+ die Hausaufgabe, -n 
+ die Hausfrau, -en/ 
+ der Hausmann 
+ die Heimat 
+ heiraten 
+ heißen 
+ helfen 
+ hell 
+ der Herd 
+ der Herr, -en 
+ herzilch 
+ heute 
+ hier 
+ die Helife 
+ hinten 
+ das Hobby, -s 
+ hoch 
+ die Hochzeit 
+ holen 
+ hören 
+ das Hotel 
+ der hund, -e 
+ der Hunger 
+ ich 
+ ihr/ihm/ihn 
+ immer 
+ in 
+ die Information, -en 
+ internation 
+ das Internet 
+ ja 
+ die Jacke, -n 
+ jed- 
+ jetzt 
+ der Job, -s 
+ der Jugendilche, -n 
+ jung 
+ der Junge, -n 
+ der Kaffee 
+ kaputt 
+ die Karte, -n 
+ (kredit)-karte, -n 
+ die kartoffel, -n 
+ die Kasse 
+ kaufen 
+ kein 
+ kennen 
+ kennenlernen 
+ das Kind, -er 
+ der Kindergarten 
+ das Kino, -s 
+ der Kiosk 
+ klar 
+ die Klasse 
+ die Kleidung 
+ klein 
+ kochen 
+ der Koffer 
+ der Kollege, -n 
+ kommon 
+ können 
+ das Konto 
+ der Kopf 
+ kosten 
+ krank 
+ kriegen 
+ die küche 
+ der Kuchen 
+ der Kugelschreiber 
+ der kühlschrank 
+ kulturell 
+ sich kümmern 
+ der Kunder, -n 
+ der Kurs, -e 
+ kurz 
+ lachen 
+ der Laden, -ä 
+ das Land, -ä, er 
+ lang 
+ lange 
+ langsam 
+ laufen 
+ laut 
+ leben 
+ die leben 
+ die lebens- 
+ mittel (pl.) 
+ ledig 
+ legen 
+ der lehrer 
+ leicht 
+ leider 
+ leise 
+ lernen 
+ lesen 
+ letzt- 
+ die leute (pl.) 
+ das Licht 
+ lieb- 
+ lieben 
+ lieber 
+ lieblings- 
+ das Lied, -er 
+ liegen 
+ links 
+ der LKW, -s (Lastkraftwagen) 
+ das Lokal 
+ die Lösung, -en 
+ lustig 
+ machen 
+ das Mädchen, - 
+ man 
+ der Mann, -ä, er 
+ männlich 
+ die Maschine, -n 
+ das Meer 
+ mehr 
+ mein 
+ meist- 
+ der Mensch, -en 
+ mieten 
+ die Miete 
+ die Milch 
+ mit 
+ mitbringen 
+ mitkommen 
+ mitmachen 
+ mitnehmen 
+ die Mitte 
+ die Möbel (pl.) 
+ möchten 
+ mögen 
+ möglich 
+ der Moment 
+ morgen 
+ müde 
+ müssen 
+ die Mutter, -ü             Used
+ nach 
+ nächst- 
+ der Name, -n 
+ nehmen 
+ nein 
+ neu 
+ nicht 
+ nichts 
+ nie 
+ noch 
+ normal 
+ die Nummer, -n 
+ nur 
+ oben 
+ das Obst 
+ oder 
+ öffnen 
+ geöffnet 
+ oft 
+ ohne 
+ das öl 
+ die Oma 
+ der Opa 
+ die Ordnung 
+ der Ort, -e 
+ das Papier 
+ die Papiere (pl.) 
+ der Partner, -/ 
+ die Partnerin, -nen 
+ die Party 
+ der Pass, -ä, e 
+ die Pause, -n 
+ der Plan, -ä, e 
+ der Platz, -ä, e 
+ die Polizei 
+ die Pommes frites (pl.) 
+ die Post 
+ die Postleitzahl 
+ das Praktikum 
+ die Praxis 
+ der Preis, -e 
+ das Problem, -e 
+ der Prospekt, -e 
+ die Prüfung 
+ Pünktilch 
+ Rad fahren 
+ rauchen 
+ der raum, -ä, e 
+ die Rechnung, -en 
+ rechts 
+ regnen 
+ der Regen 
+ der Reis 
+ reisen 
+ die Reise 
+ das Reisebüro, -s 
+ der reiseführer 
+ reparienren 
+ die Reparatur 
+ das Restaurant, -s 
+ die Rezeption 
+ richtig 
+ riechen 
+ ruhig 
+ der Saft 
+ sagen 
+ der Salat 
+ der Salz 
+ Satz, ä, e 
+ die S-Bahn 
+ der Schalter 
+ scheinen 
+ schicken 
+ das Schild, -er 
+ der Schinken 
+ schlafen 
+ schlecht 
+ schließen 
+ geschlossen 
+ der Schluss 
+ der Schlüssel 
+ schmecken 
+ schnell 
+ schon 
+ schön 
+ der Schrank, -ä, e 
+ schreiben 
+ der Schuh, -e 
+ die Schule 
+ der Schüler 
+ schwer 
+ die Schwester, -n              Used
+ schwimmen 
+ die schwimmbad 
+ der See 
+ sehen 
+ die sehenswürdigkeit, en 
+ sehr 
+ sein 
+ an sein 
+ auf sein 
+ weg sein 
+ zu sein 
+ seit 
+ selbstständig 
+ sich 
+ sie 
+ Sie 
+ Sitzen 
+ so 
+ das Sofa 
+ sofort 
+ der Sohn, -ö, e 
+ sollen 
+ die Sonne 
+ spät 
+ später 
+ die Speisekarte 
+ spielen 
+ der Sport 
+ die Sprache, -n 
+ sprechen 
+ die Stadt, ä, e 
+ stehen 
+ die Stelle, -n 
+ stellen 
+ der Stock 
+ die Straße, -n 
+ die Straßenbahn 
+ studieren 
+ das Studium 
+ der Student, -en 
+ die Stunde, -n 
+ suchen 
+ tanzen 
+ die Tasche, -n 
+ das Taxi 
+ der Tee 
+ der Teil, -e 
+ telefonieren 
+ das Telefon 
+ der Termin, -e 
+ der Test 
+ teuer 
+ der Text, -e 
+ das Thema 
+ das ticket, -s 
+ der tisch, -e 
+ die tochter, -ö 
+ die toilette, -en 
+ die Tomate, -n 
+ tot 
+ (sich) Treffen 
+ die Treppe, -n 
+ trinken 
+ tschüss                    Used
+ tun 
+ über 
+ übernachten 
+ überweisen 
+ die Uhr 
+ um 
+ umziehen 
+ und 
+ unser- 
+ unten 
+ unter 
+ der Unterricht 
+ unterschreiben 
+ die Unterschrift 
+ der Urlaub 
+ der Vater, -ä              Used
+ verboten 
+ verdienen 
+ der Verein 
+ verheiratet 
+ verkaufen 
+ der Verkäufer 
+ vermieten 
+ der Vermieter 
+ verstehen 
+ der Verwandte, -n 
+ viel 
+ vielleicht 
+ von 
+ vor 
+ der Vorname, -n 
+ die Vorsicht 
+ (sich) vorstellen 
+ die Vorwahl 
+ wandern 
+ wann 
+ warten 
+ warum 
+ was 
+ was für ein 
+ (sich) waschen 
+ das Wasser 
+ weh tun 
+ weiblich 
+ der Wein 
+ weit 
+ weiter 
+ welch- 
+ die Welt 
+ wenig 
+ wer 
+ weden 
+ das Wetter 
+ wichtig 
+ wie 
+ wiederholen 
+ das Wierderhören 
+ das wiedersehen 
+ wie viel 
+ willkommen 
+ der wind 
+ wir 
+ wissen 
+ wo 
+ woher 
+ wohin 
+ wohnen 
+ die Wohnung, -en 
+ wollen 
+ das Wort, ö, er/-e 
+ wunderbar 
+ zahlen 
+ die Zeit 
+ zurzeit 
+ die Zietung, -en 
+ die zigarette, -n 
+ das Zimmer 
+ der Zoll 
+ zu 
+ zufrieden 
+ der Zug, -ü, e 
+ zurück 
+ zusammen 
+ zwischen 
+ 
