@@ -92,7 +92,7 @@ weden
 bisschen
 abholen 
 noch 
-lieben 
+gefallen
 (kredit)-karte, -n 
 der Kindergarten 
 die Papiere (pl.) 
@@ -182,7 +182,7 @@ das Doppelzimmer
 (sich) anmelden 
 der Arm, -e 
 best-
-ich
+die Oma
 der Anfang 
 das Schild, -er 
 der Herr, -en
@@ -204,7 +204,7 @@ der Geburtstag
 rauchen 
 der Flughafen
 die Reise 
-die Großvater 
+die Großvater
 der Chef 
 schon 
 besichtigen
@@ -827,5 +827,5 @@ die Prüfung
 zusammen
 spielen
 tot
-die Oma
-gefallen
+
+
