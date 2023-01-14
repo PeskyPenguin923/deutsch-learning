@@ -22,7 +22,7 @@ Sitzen
 der Kurs, -e 
 die Information, -en 
 der Durst 
-die tochter, -ö 
+die tochter, -ö
 
 
 
@@ -71,9 +71,9 @@ an sein
 mittel (pl.) 
 die Familie, -n
 besser 
-ihr/ihm/ihn 
-das Getränk 
-Satz, ä, e 
+also 
+das Getränk
+Satz, ä, e
 die lebens- 
 die Milch
 der Reis 
@@ -829,4 +829,3 @@ spielen
 tot
 die Oma
 gefallen
-also
