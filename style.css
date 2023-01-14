@@ -181,6 +181,18 @@ body {
     width: 150px;
 }
 
+.vocab-container .middle {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.vocab-container .middle div {
+    height: auto;
+    width: 150px;
+}
+
 .vocab-container .bottom {
     display: flex;
     justify-content: space-evenly;
@@ -191,6 +203,10 @@ body {
 .vocab-container .bottom div {
     height: auto;
     width: 150px;
+}
+
+.vocab-container .bottom .clear {
+    color: #1c1c1c;
 }
 
 .daily-translate-container {
