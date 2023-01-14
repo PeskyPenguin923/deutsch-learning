@@ -158,6 +158,15 @@ body {
     color: white;
 }
 
+.days-container .clear {
+    color: #1c1c1c;
+    background-color: #1c1c1c;
+    border-color: #1c1c1c;
+    font-size: 1px;
+    width: 100px;
+    border-radius: 0px;
+}
+
 /* Daily Practice Style */
 
 .daily-vocab-container {
