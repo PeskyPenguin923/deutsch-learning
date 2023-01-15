@@ -257,7 +257,7 @@ der Herd
 bis
 besetzt
 finden 
-die Post 
+die Post
 die Adresse, -en 
 der reiseführer 
 der Vermieter
@@ -810,7 +810,6 @@ der Saft
 DAY SPLIT 30
 
 verheiratet
-der LKW, -s (Lastkraftwagen)
 der Hausmann
 der Schüler
 die Pause, -n
