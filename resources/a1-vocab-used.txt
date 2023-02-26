@@ -604,7 +604,7 @@ hoch
 das Meer 
 die Ehefrau, -en 
 zahlen
-die Helife 
+die Hilfe 
 der Schinken
 jetzt
 das Konto
@@ -634,7 +634,7 @@ meist-
 holen 
 das Bild, -er
 böse
-das Wierderhören
+das Wiederhören
 hören
 die Bahn
 denn
@@ -654,7 +654,7 @@ oder
 der Absender 
 gehören
 geradeaus
-der Salz
+das Salz
 männlich
 die Dame, -n
 frei
@@ -682,7 +682,7 @@ danken
 sein 
 die Farbe, -n 
 der bogen
-die sehenswürdigkeit, en
+die Sehenswürdigkeit, -en
 feiern 
 dann 
 das Fax -e 
@@ -810,7 +810,6 @@ der Saft
 DAY SPLIT 30
 
 verheiratet
-der Hausmann
 der Schüler
 die Pause, -n
 suchen

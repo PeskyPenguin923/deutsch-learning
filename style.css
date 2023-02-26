@@ -234,6 +234,10 @@ body {
     margin-bottom: 5px;
 }
 
+.translate-container div {
+    margin: 5px;
+}
+
 .grammar-container .top div {
     height: auto;
     width: 150px;
