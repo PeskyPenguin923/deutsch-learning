@@ -79,17 +79,38 @@ body {
     color: white;
 }
 
-
+.home-body {
+    margin-left: auto;
+    margin-right: auto;
+    width: max-content;
+}
 
 .home-section {
     display: flex;
     justify-content: center;
     height: max-content;
-    width: auto;
+    width: 900px;
     margin-top: 25px;
+    background-color: #262525;
+    border-style: solid;
+    border-radius: 10px;
 }
 
-.home-section-content {
+
+.lower-home-section {
+    display: flex;
+    margin-top: 25px;
+    width: 900px;
+}
+
+.left-lower {
+    background-color: #262525;
+    border-style: solid;
+    border-radius: 10px;
+    margin-right: 15px;
+}
+
+.right-lower {
     background-color: #262525;
     border-style: solid;
     border-radius: 10px;
