@@ -7,6 +7,46 @@ body {
     font-size: 16px;
 }
 
+.website-header {
+    display: flex;
+    justify-content: space-around;
+}
+
+.website-header .left {
+    display: flex;
+}
+
+.header-logo {
+    margin: 3px;
+}
+
+.header-logo img {
+    height: 10px;
+    width: auto;
+}
+
+.header-title {
+    margin: 3px;
+}
+
+.website-header .right {
+    display: flex;
+    justify-content: space-around;
+}
+
+.header-navigation {
+    display: flex;
+    justify-content: space-around;
+}
+
+.header-navigation div {
+    margin: 3px;
+}
+
+.header-profile {
+    margin: 3px;
+}
+
 .header {
     display: flex;
     font-weight: bold;
