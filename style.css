@@ -31,6 +31,10 @@ body {
     margin: 3px;
 }
 
+.header-profile img {
+    height: 40px;
+}
+
 .header-title {
     font-weight: bold;
     display: flex;
